@@ -67,4 +67,5 @@ No MIC or KDF is used in Mode 5.
 
 ### Output
 
-When run, the Serial Monitor shows parsed header, IV, and decrypted payload. 
+<img width="1919" height="873" alt="image" src="https://github.com/user-attachments/assets/5e0c515a-b173-474f-a641-23ff3447e5c7" />
+ 
