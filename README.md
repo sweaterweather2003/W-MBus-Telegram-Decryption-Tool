@@ -45,7 +45,7 @@ No MIC or KDF is used in Mode 5.
 
 1. Go to [wokwi.com](https://wokwi.com) and create a new ESP32 project.
 2. In the code editor, replace the default `sketch.ino` with the provided C++ code.
-3. No additional libraries needed (uses built-in mbedTLS for AES).
+3. Download the files from GitHub: Go to github.com/kokke/tiny-AES-c, download aes.h and aes.c
 4. Click the "Start" button to simulate.
 5. View the output in the Serial Monitor (bottom panel) at 115200 baud.
 6. For debugging, add `Serial.print` statements as needed.
